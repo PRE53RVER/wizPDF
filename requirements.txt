@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
 langchain
--U langchain-community
+langchain-community
 PyPDF2
 chromadb
 faiss-cpu
